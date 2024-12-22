@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Alamgir</h1>
-<h3 align="center">I'm an 18 year old software developer, focused on leveraging cutting-edge technologies to build ideas that can have an impact. I'm particularly interested in data science, machine learning, and natural language processing!</h3>
+<h3 align="center">I'm an 18 year old software developer, focused on leveraging cutting-edge technologies to build ideas that can have an impact. I'm particularly interested in data science, machine learning, and artificial intelligence in general!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
